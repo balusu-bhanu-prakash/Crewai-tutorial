@@ -1,0 +1,7 @@
+__pycache__
+virt
+.env
+analysis.txt
+draft.txt
+final.txt
+main.py
